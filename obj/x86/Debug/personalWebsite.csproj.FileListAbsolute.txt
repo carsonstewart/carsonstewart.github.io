@@ -1,0 +1,2 @@
+C:\Users\tstew\source\repos\carsonstewart.github.io\obj\x86\Debug\personalWebsite.csprojAssemblyReference.cache
+C:\Users\tstew\source\repos\carsonstewart.github.io\obj\x86\Debug\personalWebsite.csproj.CoreCompileInputs.cache

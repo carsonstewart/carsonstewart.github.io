@@ -1,0 +1,46 @@
+﻿body
+{
+   background-color:lightgray;
+}
+
+a{
+    width:;
+    background-color:dodgerblue;
+    text-decoration:none;
+    color:white;
+    
+}
+ul{
+    list-style:none;
+    text-decoration:underline;
+    padding-left:5%;
+    font-size:25px;
+    
+}
+li{
+    margin-bottom:2%;
+    margin-top:2%;
+}
+h1{
+    font-size:100px;
+    padding-left:5%;
+}
+nav{
+    font-size:25px;
+    padding-left:5%;
+    padding-right:5%;
+}
+h2{
+    padding-left:5%;
+    font-size:35px;
+}
+h3{
+    padding-left:5%;
+    font-size:30px;
+}
+p{
+    padding-left:5%;
+    padding-right:5%;
+    font-size:25px;
+    text-align:left;
+}
